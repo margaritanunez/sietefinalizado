@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="unicornioazul">
+        <item name="android:background">#0E2954</item>
+
+    </style>
+</resources>

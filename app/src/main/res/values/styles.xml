@@ -11,8 +11,17 @@
 
     <style name="pasteles" parent="pastel">
         <item name="android:layout_width">120dp</item>
-        <item name="android:layout_height">120dp</item>
+        <item name="android:layout_height">100dp</item>
         <item name="android:layout_marginStart">8dp</item>
         <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <style name="calendar">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">300dp</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginEnd">10dp</item>
+        <item name="android:background">#F2D8D8</item>
     </style>
 </resources>

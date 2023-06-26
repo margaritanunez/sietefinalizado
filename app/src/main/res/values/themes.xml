@@ -3,7 +3,19 @@
     <style name="Base.Theme.Siete" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:background">#5C8984</item>
     </style>
 
-    <style name="Theme.Siete" parent="Base.Theme.Siete" />
+    <style name="Theme.Siete" parent="Base.Theme.Siete">
+    <item name="android:background">#A084DC</item>
+
+    </style>
+
+    <style name="Theme.Unicornioazul" parent="Base.Theme.Siete">
+        <item name="android:background">#0E2954</item>
+
+    </style>
+
 </resources>
+
+
